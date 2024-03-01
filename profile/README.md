@@ -1,5 +1,5 @@
-![OPSd-logo](https://raw.githubusercontent.com/opsd-io/profile/main/images/OPSd-logo-m-light-trn.svg#gh-light-mode-only)
-![OPSd-logo](https://raw.githubusercontent.com/opsd-io/profile/main/images/OPSd-logo-m-grey-trn.svg#gh-dark-mode-only)
+![OPSd-logo](https://raw.githubusercontent.com/opsd-io/profile/main/images/gh-header-light-mode.png#gh-light-mode-only)
+![OPSd-logo](https://raw.githubusercontent.com/opsd-io/profile/main/images/opsd-github-dark-mode.svg#gh-dark-mode-only)
 
 # What is OPSd?
 Welcome to OPSd, an open-source initiative to empower IT startups and software houses with the tools and knowledge to manage their cloud infrastructure efficiently. Our focus lies in delivering infrastructure-as-code modules tailored for Amazon Web Services (AWS), DigitalOcean and Azure (in the future), enabling seamless creation and management of cloud resources.
