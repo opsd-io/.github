@@ -2,7 +2,9 @@
 ![OPSd-logo](https://raw.githubusercontent.com/opsd-io/profile/main/images/OPSd-logo-m-grey-trn.svg#gh-dark-mode-only)
 
 # What is OPSd?
-OPSd is a project where we want to share our knowledge and experience in creating and managing cloud infrastructure. This knowledge is stored in the form of Terraform, Ansible and Helm modules that we use daily to provide reliable services to our customers worldwide.
+Welcome to OPSd, an open-source initiative to empower IT startups and software houses with the tools and knowledge to manage their cloud infrastructure efficiently. Our focus lies in delivering infrastructure-as-code modules tailored for Amazon Web Services (AWS), DigitalOcean and Azure (in the future), enabling seamless creation and management of cloud resources.
+
+OPSd strives to democratize cloud infrastructure management by providing accessible and user-friendly infrastructure-as-code modules. We aim to support IT startups and software houses in enhancing their DevOps capabilities while ensuring their cloud infrastructure is stable, scalable, automated, well-documented and secure.
 
 # Why are we doing this? 
 We have been using Open Source solutions for years. It's time we gave something back to this community.
