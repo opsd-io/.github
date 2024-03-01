@@ -7,6 +7,14 @@ Welcome to OPSd, an open-source initiative to empower IT startups and software h
 OPSd strives to democratize cloud infrastructure management by providing accessible and user-friendly infrastructure-as-code modules. We aim to support IT startups and software houses in enhancing their DevOps capabilities while ensuring their cloud infrastructure is stable, scalable, automated, well-documented and secure.
 
 # We are open for the PR's
+We thrives on collaboration and contributions from the community. Whether you're a seasoned developer, a DevOps enthusiast, or someone passionate about cloud technology. There are numerous ways to get involved and make a difference:
+
+* Code Contributions,
+
+* Documentation,
+
+* Testing and Feedback.
+
 If you like what we do and would like to contribute, visit [contribution](https://github.com/opsd-io/contribution) section to find out how to get started.
 
 # Support
