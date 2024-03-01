@@ -11,6 +11,7 @@ We thrives on collaboration and contributions from the community. Whether you're
 * Code Contributions,
 * Documentation,
 * Testing and Feedback.
+No contribution is too small, and every contribution helps propel OPSd forward.
 
 If you like what we do and would like to contribute, visit [contribution](https://github.com/opsd-io/contribution) section to find out how to get started.
 
