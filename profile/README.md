@@ -2,12 +2,15 @@
 ![OPSd-logo](https://raw.githubusercontent.com/opsd-io/profile/main/images/gh-header-dark-mode.png#gh-dark-mode-only)
 
 # What is OPSd?
-Welcome to OPSd, an open-source initiative to empower IT startups and software houses with the tools and knowledge to manage their cloud infrastructure efficiently. Our focus lies in delivering infrastructure-as-code modules tailored for Amazon Web Services (AWS), DigitalOcean and Azure (in the future), enabling seamless creation and management of cloud resources.
 
-OPSd strives to democratize cloud infrastructure management by providing accessible and user-friendly infrastructure-as-code modules. We aim to support IT startups and software houses in enhancing their DevOps capabilities while ensuring their cloud infrastructure is stable, scalable, automated, well-documented and secure.
+OPSdiy project aims to equip developers, startups, and software houses with tools to manage cloud infrastructure efficiently. Our registry comprises Terraform tailor-made modules designed to manage multiple providers in a unified way. The project is run in the open-source convention as a form of thanks to the community whose resources we have used so often in recent years.
+
+# Wide range of supported vendors
+
+We are focused on delivering infrastructure-as-code (IaC) modules to support the leading vendors on the market, like Amazon Web Services (AWS), DigitalOcean, and Azure (soon). We do not focus on supporting every single service of a given provider but rather on obtaining a given functionality that will enable us to change the service provider smoothly, if necessary.
 
 # We are open for the PR's
-We thrives on collaboration and contributions from the community. Whether you're a seasoned developer, a DevOps enthusiast, or someone passionate about cloud technology. There are numerous ways to get involved and make a difference:
+We thrive on collaboration and contributions from the community. Whether you're a seasoned developer, a DevOps enthusiast, or someone passionate about cloud technology. There are numerous ways to get involved and make a difference:
 * Code Contributions,
 * Documentation,
 * Testing and Feedback.
@@ -17,6 +20,6 @@ No contribution is too small, and every contribution helps propel OPSd forward.
 If you like what we do and would like to contribute, visit [contribution](https://github.com/opsd-io/contribution) section to find out how to get started.
 
 # Support
-We understand that navigating the complexities of cloud infrastructure can be daunting. That's why we offer comprehensive support for all those interested in leveraging our infrastructure-as-code modules. Whether you have questions about getting started, need assistance with troubleshooting, or seek advice on best practices, our dedicated support team are here to help. From beginner-friendly tutorials to advanced technical guidance, we're committed to ensuring that every user receives the assistance they need to succeed in their cloud endeavours.
+Navigating the complexities of cloud infrastructure can be daunting. That's why we offer comprehensive support for all those interested in leveraging our infrastructure-as-code modules. Whether you have questions about getting started, need assistance with troubleshooting, or seek advice on best practices, our dedicated support team is here to help. From beginner-friendly tutorials to advanced technical guidance, we're committed to ensuring that every user receives the assistance they need to succeed in their cloud endeavours.
 
-To contact us for support, write to: <support@opsd.io>
+To contact us for support, write to <support@opsd.io>
