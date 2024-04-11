@@ -20,6 +20,8 @@ No contribution is too small, and every contribution helps propel OPSd forward.
 If you like what we do and would like to contribute, visit [contribution](https://github.com/opsd-io/contribution) section to find out how to get started.
 
 # Support
-Navigating the complexities of cloud infrastructure can be daunting. That's why we offer comprehensive support for all those interested in leveraging our infrastructure-as-code modules. Whether you have questions about getting started, need assistance with troubleshooting, or seek advice on best practices, our dedicated support team is here to help. From beginner-friendly tutorials to advanced technical guidance, we're committed to ensuring that every user receives the assistance they need to succeed in their cloud endeavours.
+Navigating the complexities of cloud infrastructure can be daunting. That's why we offer comprehensive support for all those interested in leveraging our modules. 
+Whether you have questions about how to start or need assistance with troubleshooting, our team is here to help. 
+We're committed to ensuring every user receives the assistance they need to succeed in their cloud endeavours.
 
 To contact us for support, write to <support@opsd.io>
