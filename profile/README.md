@@ -9,6 +9,9 @@ OPSdiy project aims to equip developers, startups, and software houses with tool
 
 We are focused on delivering infrastructure-as-code (IaC) modules to support the leading vendors on the market, like Amazon Web Services (AWS), DigitalOcean, and Azure (soon). We do not focus on supporting every single service of a given provider but rather on obtaining a given functionality that will enable us to change the service provider smoothly, if necessary.
 
+* [DigitalOcean modules](https://github.com/orgs/opsd-io/repositories?q=terraform-module-digitalocean)
+* [AWS modules](https://github.com/orgs/opsd-io/repositories?q=terraform-module-aws)
+
 # We are open for the PR's
 We thrive on collaboration and contributions from the community. Whether you're a seasoned developer, a DevOps enthusiast, or someone passionate about cloud technology. There are numerous ways to get involved and make a difference:
 * Code Contributions,
