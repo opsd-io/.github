@@ -16,6 +16,11 @@ OPSd turns a supported scenario into a clear, repeatable workflow and infrastruc
 - [Read the documentation](https://opsd.io/docs/)
 - [Follow the quickstart](https://opsd.io/docs/quickstart)
 
+## Contributing
+
+See the [OPSd contribution guide](../CONTRIBUTING.md) for the shared pull
+request, commit, testing, and release procedure.
+
 ## Reporting issues
 
 Found a problem? Please open an issue in the repository responsible for the affected component:
