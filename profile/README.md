@@ -18,7 +18,7 @@ OPSd turns a supported scenario into a clear, repeatable workflow and infrastruc
 
 ## Contributing
 
-See the [OPSd contribution guide](../CONTRIBUTING.md) for the shared pull
+See the [OPSd contribution guide](https://github.com/opsd-io/.github/blob/main/CONTRIBUTING.md) for the shared pull
 request, commit, testing, and release procedure.
 
 ## Reporting issues
